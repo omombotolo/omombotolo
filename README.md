@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and building websites and app!
 - 🌱 I’m currently learning python html,css ams js
 - 💞️ I’m looking to collaborate on anything coding.
-- 📫 How to reach me https://t.me/Yqsuk3
+- 📫 How to reach me On FB Køffee
 
 <!---
 omombotolo/omombotolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
